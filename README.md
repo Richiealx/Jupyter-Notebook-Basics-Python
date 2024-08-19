@@ -22,20 +22,21 @@ Threading in Python Python Scripting Python Libraries:
 
 NumPy: Numerical operations and data manipulation Pandas: Data analysis and manipulation Matplotlib: Data visualization and plotting Scikit-learn: Machine learning models and algorithms
 
-📂 Repository Contents /scripts/: Contains Python scripts that demonstrate fundamental programming concepts, control flow, and data structures. /projects/: 
-Includes larger projects that utilize Python libraries such as NumPy, Pandas, and Matplotlib for data manipulation and visualization. /OOP/: 
-Examples of object-oriented programming, illustrating the use of classes and objects in Python. /threading/: 
-Demonstrations of threading in Python, showcasing how to handle concurrent execution.
 
-📜 Certificate of Completion I have successfully completed the Python course and earned a certificate from Simplilearn (SkillUp). You can view my certificate here.
+📜 Certificate of Completion 
+I have successfully completed the Python course and earned a certificate from Simplilearn (SkillUp). 
+You can view my certificate here.
 
 🔗 Connect With Me I'm always open to collaborating on new projects or discussing Python and data science topics. 
 Feel free to connect with me on LinkedIn at linkedin.com/in/richard-frimpong-174a85271 or explore more of my work on GitHub.
 
 Clone the repository:
 
-bash Copy code git clone https://github.com/Richiealx/jupyter-notebook-python.git cd your-repository-name Run the Python scripts:
+bash Copy code 
+git clone https://github.com/Richiealx/jupyter-notebook-python.git cd your-repository-name Run the Python scripts:
 
-bash Copy code python script_name.py 🌟 
-Acknowledgments
+bash Copy code python script_name.py 
+
+🌟 Acknowledgments
+
 I would like to thank Simplilearn for providing a comprehensive Python course that has significantly enhanced my programming skills.
